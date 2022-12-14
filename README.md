@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
 Hey there!👋
 ==================================
-* 👀 I'm currently looking for a SWE Internship
-* ✉️  You can contact me at [mfem442@gmail.com](mailto:mfem442@gmail.com)
-* 💻 I’m currently learning more about **Web Development**
+I'm Fernanda Elizalde, a C.S. student from Mexico!
 
-* ✉️  You can contact me at [mfem442@gmail.com](mailto:mfem442@gmail.com)
+* ✨ Finding ways in which technology and creativity come together to build something great ✨
+* 👀 I'm currently looking for a SWE Internship
+* ✉️ You can contact me at [mfem442@gmail.com](mailto:mfem442@gmail.com)
+* 💻 I’m currently learning more about **Web Development**
 
 ### Connect with me
 
