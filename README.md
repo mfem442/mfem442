@@ -42,6 +42,6 @@ I'm Fernanda Elizalde, a C.S. student from Mexico!
 
 ### My Github Stats
 
-<a href="http://www.github.com/mfem442"><img src="https://github-readme-stats.vercel.app/api?username=mfem442&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="mfem442's GitHub stats" /></a>
+<a href="http://www.github.com/mfem442"><img src="https://github-readme-stats.vercel.app/api?username=mfem442&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true&theme=dracula" alt="mfem442's GitHub stats" /></a>
 
 <a href="https://github.com/mfem442" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfem442&langs_count=3&title_color=ef4444&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
