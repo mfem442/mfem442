@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+* 👀 I'm currently looking for a SWE Internship
 -->
 Hey there!👋
 ==================================
 I'm Fernanda Elizalde, a C.S. student from Mexico!
 
 * ✨ Finding ways in which technology and creativity come together to build something great ✨
-* 👀 I'm currently looking for a SWE Internship
 * ✉️ You can contact me at [mfem442@gmail.com](mailto:mfem442@gmail.com)
 * 💻 I’m currently learning more about **Web Development**
 
